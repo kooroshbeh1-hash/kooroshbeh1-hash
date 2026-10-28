@@ -30,12 +30,14 @@
 - 🤖 **Intelligent Talking Robot** — An electronics and AI project
 - ⚡ **Embedded Systems** — Experiments with microcontrollers and sensors
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kooroshbeh1-hash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooroshbeh1-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kooroshbeh1-hash&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooroshbeh1-hash&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
+
 
 ## 🐍 Contribution Graph
 
